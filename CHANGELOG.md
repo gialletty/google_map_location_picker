@@ -1,3 +1,6 @@
+## 4.1.8
+* upgrade geolocator to latest version, `geolocator: ^7.0.1`
+
 ## 4.1.7
 
 * Updated deps to work with flutter stable 2.0.1
